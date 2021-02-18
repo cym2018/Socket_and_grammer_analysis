@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <groupId>xyz.cym2018</groupId>
+    <artifactId>xyz.cym2018</artifactId>
+    <modelVersion>4.0.0</modelVersion>
+    <version>0.0.1</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter</artifactId>
+            <version>2.4.2</version>
+        </dependency>
+    </dependencies>
+
+</project>
